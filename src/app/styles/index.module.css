@@ -1,0 +1,16 @@
+/* styles/index.module.css */
+.backgroundCol {
+    background-image: url('./../../../public/images/banner.png');
+    background-size: contain;
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 100vh;;
+  }
+  .backgroundCol2 {
+    background-image: url('./../../../public/images/banner1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* height: 100vh; */
+  }
+  
